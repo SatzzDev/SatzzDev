@@ -1,6 +1,7 @@
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=50&pause=1000&width=400&height=100&lines=Hei+Stalker👋)
+
 <div align='center'>
 <img src="logo.png" alt="LOGO" width="200" style="display:block; margin:auto;" />
-
 
 # 💫 About Me:
 17 y.o
